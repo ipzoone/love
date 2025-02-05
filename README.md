@@ -9,7 +9,7 @@
    https://github.com/ipzoone/love.git
    ```
 2. **Buka project** masuk ke folder "dist" untuk menjalankan file exe nya.
-3. **Jalankan file exe** jika antivirus mempertanyakannya tinggal izinkan.
+3. **Jalankan file exe** note: jika antivirus mendeteksi nya tinggal izinkan karna ini aman bukan sebuah malware.
 
 ## ⚠️ Disclaimer
 Project ini hanya untuk lucu lucuan dan aman, bukan sebuah virus.
