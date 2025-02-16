@@ -12,7 +12,7 @@
 3. **Jalankan file exe** note: jika antivirus mendeteksi nya tinggal izinkan karna ini aman bukan sebuah malware.
 
 ## ⚠️ Disclaimer
-Project ini hanya untuk lucu lucuan dan aman, bukan sebuah virus.
+Project ini hanya untuk lucu lucuan untuk kaum bucin dan aman.
 
 ---
 ./IPZONEX
